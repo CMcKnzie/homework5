@@ -3,5 +3,5 @@
 </script>
 
 <template>
-    <div>Settings!!</div>
+    <div class="text-center">Settings!!</div>
 </template>
